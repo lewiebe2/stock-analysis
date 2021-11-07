@@ -19,7 +19,7 @@ Between 2017 and 2018 the majority of stocks had overall positive average return
 
 ![](Resources/VBA_Challenge_2017-2018_OverallAverageReturn.png)
 
-However, I would advise Steve to consider analyzing a larger range of stock market performance datasets before making investment decisions. Analyzing five years or more of stock performance will give Steve a much better view of the average return of investment.
+However, I would advise Steve to consider analyzing a larger range of stock market performance datasets before making investment decisions. Analyzing five years or more of stock market performance will give Steve a much better view of the average return of investment.
 
 ### **VBA Script Execution Times:**
 My original VBA Script before refactoring executed in the following times:
