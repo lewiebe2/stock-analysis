@@ -5,12 +5,12 @@ My client Steve requested an updated Excel workbook to quickly analyze the entir
 
 ## *Results*
 ### **2017 Stock Performance:**
-In 2017 all stocks except TERP had a positive return, suggesting it was overall a year of high performance. The average return was 67.3%, with a maximum return of 199.4% for DQ. The highest performing stocks with returns greater than 100% were DQ, SEDG, ENPH, and FSLR. The lowest performing stocks were TERP, RUN, and AY with returns less than 10%. 
+In 2017 all stocks except TERP had a positive return, suggesting it was a year of high market performance. The average return was 67.3%, with a maximum return of 199.4% for DQ. The highest performing stocks with returns greater than 100% were DQ, SEDG, ENPH, and FSLR. The lowest performing stocks were TERP, RUN, and AY with returns less than 10%. 
 
 ![](Resources/VBA_Challenge_2017_AverageReturn.png)
 
 ### **2018 Stock Performance:**
-In sharp contrast to 2017, 2018 was overall a year of low performance. The average return was -8.5% with only ENPH and RUN having positive returns; both ENPH and RUN had strong positive returns of greater than 80%.
+In sharp contrast to 2017, 2018 was a year of low market performance. The average return was -8.5% with only ENPH and RUN having positive returns; both ENPH and RUN had strong positive returns of greater than 80%.
 
 ![](Resources/VBA_Challenge_2018_AverageReturn.png)
 
